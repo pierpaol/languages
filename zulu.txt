@@ -1,2 +1,3 @@
 belongs to the Bantu stock
 spoken in South Africa
+word order: SVO
